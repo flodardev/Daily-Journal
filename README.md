@@ -8,8 +8,8 @@ https://radolfdailyjournal.herokuapp.com/
 
 ## Built With
 
-* [Node.js](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Express.js](https://maven.apache.org/) - Dependency Management
+* [Node.js](https://nodejs.org/) - JavaScript Runtime
+* [Express.js](https://expressjs.com/) - The web framework used
 
 ## Authors
 
